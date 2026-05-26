@@ -9,7 +9,7 @@
 ## 설치
 
 ```
-git clone {repo-url} ~/.claude/skills/형식지추출
+git clone https://github.com/D1-B2B-AX/1on1-session-phase1-skill.git ~/.claude/skills/형식지추출
 ```
 
 ## 사용
