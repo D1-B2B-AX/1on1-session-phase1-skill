@@ -1,7 +1,6 @@
 ---
-name: AX-1on1-session-phase1-형식지
+name: 형식지추출
 description: AX 1:1 세션 Phase 1 — 신청자 원업무를 형식지로 추출. [전] 구글폼 받아 세션별 인터뷰질문 생성 / [후] 인터뷰 raw 받아 형식지 작성. 인터뷰 진행 자체는 사람이 함.
-trigger: /형식지추출
 version: v0.1-draft
 authors: 이지현 (AX팀)
 ---
