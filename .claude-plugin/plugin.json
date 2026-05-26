@@ -1,0 +1,6 @@
+{
+  "name": "1on1-session-phase1-형식지",
+  "description": "AX 1:1 세션 Phase 1 — 신청자 원업무를 형식지로 추출 (전: 세션별 인터뷰질문 생성 / 후: 형식지 작성). 커맨드: 형식지추출",
+  "version": "0.1.0",
+  "author": { "name": "AX팀" }
+}
