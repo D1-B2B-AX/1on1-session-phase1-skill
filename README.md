@@ -15,7 +15,7 @@ git clone {repo-url} 1on1-session-phase1-형식지
 
 ## 사용
 
-새 Claude Code 세션에서 **`/형식지인터뷰`** 입력.
+새 Claude Code 세션에서 **`/형식지추출`** 입력.
 
 - 매 실행 시 **자동 업데이트**(`git pull --quiet`). 네트워크 오류면 무시하고 진행.
 - **세션 폴더 기준 단계 자동 감지**(+한 번 확인):
@@ -29,7 +29,7 @@ git clone {repo-url} 1on1-session-phase1-형식지
 ├── README.md
 ├── docs/
 │   └── 사용자_가이드.md
-└── skills/형식지인터뷰/
+└── skills/형식지추출/
     ├── SKILL.md
     └── references/
         ├── 형식지템플릿.md       (11칸 출력 구조)
